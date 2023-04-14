@@ -41,7 +41,7 @@ Lista de Tarefas:
 
 Criar link ou imagens:
 
-[Acesse meu Github](https://Euclides1.github.io)
+[Acesse meu Github](https://github.com/Euclides1)
 
 ![colocar o nome da imagem](colocar o link da imagem em png)
 
